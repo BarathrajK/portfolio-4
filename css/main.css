@@ -1,0 +1,145 @@
+
+h1 {
+    color: orangered;
+    font-size: 25px;
+    text-align: center;
+}
+h2{
+    margin-bottom: -16px;
+}
+.section-title {
+    font-size: 25px;
+    color: orangered;
+    margin-top: 20px;
+    margin-left: 52px;
+    position: relative;
+}
+.pro1 {
+    color: orangered;
+}
+
+.p {
+    color: black;
+    font-size: 18px;
+    padding-top: 12px;
+    padding-bottom: 25px;
+    line-height: 25px;
+    margin-left: 0px;
+}
+nav {
+    background-color: orangered;
+    width: 1255px;
+    font-size: 20px;
+    text-align: center;
+    line-height: 46px;
+    display: inline-block;
+}
+.content {
+    font-size: 20px;
+    padding-top: 20px;
+}
+.tag-container {
+    color:orangered;
+    padding: 5px 12px 5px 50px;
+    border-radius: 6px;
+    font-size: 25px;
+    margin-left: 251px;
+    margin-top: 20px;
+    }
+    .tag-container span{
+        background-color: black;
+        padding: 7px 6px;
+        border-radius: 10px;
+    }
+.key-skills {
+    color: orangered;
+    margin-top: 35px;
+    margin-left: 52px;
+    font-size: 25px;  
+}
+.section-title1{
+    text-align: center;
+    padding: 5px 12px 5px 12px;
+    border-radius: 6px;
+    color: orangered;
+    margin-top: 20px;
+    margin-left: -260px;
+}
+.section-title1 span{
+    background-color: black;
+    padding: 7px 6px;
+    border-radius: 10px;
+}
+.h2{
+    color: orangered;
+    margin-top: 20px;
+    margin-left: 51px;
+    font-size: 25px;
+}
+.quality {
+    color: orangered;
+    margin-top: 32px;
+    padding-left: 51px;
+    font-size: 22px;
+}
+.sub-head{
+    display: flex;
+    justify-content: space-between;
+}
+.head{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.qc{
+    font-size: 20px;
+    margin-left: 113px;
+    margin-top: 10px;
+    line-height: 30px;
+} 
+  .red-box{
+    height: 47px;
+    width: 36px;
+    background-color: orangered;
+    position: absolute;
+    left: 6px;
+    top: 255px;
+}
+.red-box2{
+    height: 46px;
+    width: 36px;
+    background-color: orangered;
+    position: absolute;
+    left: -55px;
+    top: -12px;
+}
+.red-box3{
+    height: 46px;
+    width: 36px;
+    background-color: orangered;
+    position: absolute;
+    left: 7px;
+    margin-top: -13px;
+}
+.red-box4{
+    height: 46px;
+    width: 36px;
+    background-color:orangered;
+    position: absolute;
+    left: 6px;
+    margin-top: -8px;
+}
+h5{
+    color: orangered;
+    margin-left: 31px;
+    margin-top: 21px;
+    margin-left: 53px;
+    font-size: 25px;
+}
+.text{
+    display: flex;
+    justify-content:space-between;
+}
+.date{
+    text-align: end;
+}
